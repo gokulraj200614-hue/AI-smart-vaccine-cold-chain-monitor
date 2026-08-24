@@ -1,0 +1,6 @@
+{
+  "name": "ECHELON - Vaccine Cold-Chain AI Spoilage Prevention",
+  "description": "AI-based vaccine cold-chain monitoring, predictive spoilage risk estimation, early warning alerts, and automated preventive action workflows.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
